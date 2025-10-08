@@ -1,0 +1,2 @@
+def sfun():
+    return "goal"
