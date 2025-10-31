@@ -1,0 +1,190 @@
+COMPANY POLICY HANDBOOK
+1. INTRODUCTION AND PURPOSE
+This Company Policy Handbook outlines the principles, rules, and procedures that govern the organization’s operations, employee behavior, data management, and compliance obligations. The objective is to create a consistent, transparent, and ethical workplace where all employees, contractors, and partners operate with professionalism, respect, and accountability.
+All employees are required to read, understand, and comply with the policies contained herein. These policies are subject to change at the discretion of the Management Board, and all updates will be communicated through the official communication channels, including internal email notifications and the company intranet portal.
+The handbook applies to all permanent, temporary, and contract employees, as well as interns and consultants representing the company in any capacity. Failure to adhere to these policies may result in disciplinary action, up to and including termination of employment.
+The company promotes a culture of mutual respect, integrity, innovation, and safety. Our policies reflect our legal obligations, ethical standards, and operational goals. Employees are encouraged to seek clarification from their managers or the Human Resources (HR) Department regarding any policy.
+
+2. CODE OF CONDUCT AND ETHICS
+2.1 General Principles
+All employees are expected to demonstrate honesty, fairness, and integrity in all professional dealings. Personal and professional conduct should reflect positively on the company and uphold its reputation. Employees must avoid behavior that may harm the company’s image, relationships, or financial interests.
+2.2 Compliance with Laws and Regulations
+Employees must comply with all applicable laws, including labor laws, anti-corruption statutes, data protection regulations, export controls, and environmental standards. Ignorance of the law is not an excuse for non-compliance. The company may conduct periodic compliance audits to ensure adherence.
+2.3 Conflict of Interest
+Employees should avoid situations where personal interests conflict with the interests of the company. A conflict of interest arises when an individual’s personal, financial, or family interests interfere with their professional responsibilities. Examples include having a financial stake in a competitor, vendor, or client, or using company resources for personal gain.
+All potential conflicts must be disclosed to HR or the Legal Department in writing.
+2.4 Anti-Bribery and Corruption
+The company maintains a zero-tolerance policy toward bribery and corruption. Employees must not offer, give, solicit, or accept any form of bribe, gift, or payment that could influence a business decision. All hospitality or gifts above nominal value must be declared and approved by the department head.
+2.5 Confidentiality and Non-Disclosure
+Employees must protect all confidential, proprietary, or sensitive information obtained during their employment. Disclosure to unauthorized individuals is strictly prohibited. This obligation continues after the termination of employment. Confidential information includes business plans, customer data, financial information, and trade secrets.
+
+3. EMPLOYMENT AND HUMAN RESOURCES POLICIES
+3.1 Equal Employment Opportunity
+The company is committed to providing equal employment opportunities without discrimination based on race, gender, religion, age, nationality, disability, or any other protected characteristic. All employment decisions, including recruitment, compensation, promotion, and termination, are made based on merit and performance.
+
+3.2 Recruitment and Onboarding
+
+Recruitment is conducted transparently and fairly. All positions are advertised internally and externally when applicable. Selected candidates undergo background checks and must submit verified credentials. The HR Department coordinates onboarding, ensuring that new hires understand the company’s mission, values, and policies.
+
+3.3 Performance Management
+
+Employee performance is reviewed periodically through a structured appraisal process. Appraisals are based on key performance indicators (KPIs), goal achievement, teamwork, innovation, and compliance with company values. Performance feedback is documented and discussed with employees.
+
+3.4 Compensation and Benefits
+
+Compensation packages are determined based on job level, experience, and market competitiveness. Employees are entitled to benefits such as health insurance, paid leave, and retirement contributions in accordance with company policy and local regulations.
+
+3.5 Termination and Exit Procedure
+
+Employment may be terminated voluntarily or involuntarily. Resigning employees must provide notice as per their contract. Exit interviews are conducted to gather feedback. Company assets, ID cards, and electronic devices must be returned before final settlement.
+
+4. WORKING HOURS, ATTENDANCE, AND LEAVE
+4.1 Working Hours
+
+The standard workweek consists of 40 hours, typically from Monday to Friday. Employees are expected to report on time and maintain punctuality. Flexible work schedules may be approved at the manager’s discretion.
+
+4.2 Attendance and Absenteeism
+
+Attendance records are maintained through the HR management system. Unauthorized absence for more than three consecutive days may be considered job abandonment. Repeated tardiness may result in disciplinary action.
+
+4.3 Leave Policies
+
+Employees are entitled to various types of leave:
+
+Annual Leave: Minimum of 20 working days per year.
+
+Sick Leave: As per medical certificate and labor laws.
+
+Maternity/Paternity Leave: Provided according to statutory regulations.
+
+Emergency Leave: Subject to managerial approval.
+
+All leave requests must be submitted through the HR portal and approved by supervisors.
+
+5. DATA PROTECTION AND PRIVACY POLICY
+5.1 Purpose
+
+This policy ensures compliance with global data protection standards, including GDPR and other local privacy regulations. The company collects, processes, and stores personal data responsibly and lawfully.
+
+5.2 Data Classification
+
+Data is categorized into:
+
+Public Data: Freely shareable information.
+
+Internal Data: For internal business use only.
+
+Confidential Data: Restricted to authorized personnel.
+
+Highly Confidential Data: Includes financial records, customer details, and trade secrets.
+
+5.3 Data Handling and Storage
+
+All digital data must be stored on secure servers with access controls. Physical documents containing personal or confidential information must be locked when not in use. Employees must not transfer data to unauthorized third parties or cloud platforms without permission.
+
+5.4 Data Subject Rights
+
+Employees and customers have the right to access, correct, or delete their personal data. Requests must be submitted in writing to the Data Protection Officer (DPO).
+
+5.5 Data Breach Response
+
+In case of a data breach, employees must immediately report it to the IT Security Team. A formal incident response procedure will be initiated, including containment, assessment, and notification of affected parties.
+
+6. INFORMATION TECHNOLOGY (IT) USAGE POLICY
+6.1 Acceptable Use
+
+Company IT resources, including email, internet, and software systems, must be used solely for business purposes. Personal use should be limited and must not interfere with productivity or violate ethical standards.
+
+6.2 Email and Communication
+
+Employees must use company-provided email accounts for official communication. Sending offensive, discriminatory, or spam messages through company email is prohibited.
+
+6.3 Software Licensing
+
+Only licensed and approved software may be installed on company systems. Unauthorized installation of programs or external applications is strictly forbidden.
+
+6.4 Monitoring and Logging
+
+The company reserves the right to monitor IT usage, including email traffic and network activity, to ensure security and compliance. Employees are advised that there should be no expectation of privacy when using company systems.
+
+7. CYBERSECURITY AND ACCESS CONTROL
+7.1 Password Management
+
+Passwords must be at least 10 characters long and contain a combination of letters, numbers, and symbols. Passwords should not be shared, reused, or written down.
+
+7.2 Device Security
+
+All company laptops, phones, and tablets must be password-protected and encrypted. Lost or stolen devices must be reported immediately.
+
+7.3 Network Security
+
+Employees must connect only to secure Wi-Fi networks. VPN usage is mandatory for remote connections. Phishing awareness and regular cybersecurity training are mandatory.
+
+7.4 Access Control
+
+Access to systems is granted based on the principle of least privilege. When an employee changes roles or exits, their access rights must be updated or revoked.
+
+8. REMOTE AND HYBRID WORK POLICY
+
+Remote and hybrid work models are designed to promote flexibility while maintaining productivity, collaboration, and data security.
+
+Employees working remotely must:
+
+Maintain a quiet and professional work environment.
+
+Use company-approved devices and VPN connections.
+
+Comply with working hour expectations.
+
+Attend all virtual meetings punctually.
+
+Managers are responsible for monitoring deliverables and ensuring effective team coordination. Periodic in-office attendance may be required for key meetings or training.
+
+9. HEALTH, SAFETY, AND ENVIRONMENT (HSE)
+9.1 General Commitment
+
+The company prioritizes the health and safety of all personnel. Employees must comply with all occupational safety procedures and promptly report hazards or incidents.
+
+9.2 Emergency Procedures
+
+Emergency exits must remain unobstructed. Employees should familiarize themselves with evacuation routes, first aid kits, and fire extinguishers. Fire drills are conducted quarterly.
+
+9.3 Ergonomics and Workplace Safety
+
+Employees must maintain ergonomic workstations to prevent strain and injury. The company may provide ergonomic assessments upon request.
+
+9.4 Environmental Responsibility
+
+Employees are encouraged to minimize energy use, recycle materials, and adopt environmentally friendly practices in daily operations.
+
+10. DISCIPLINARY PROCEDURES AND GRIEVANCE REDRESSAL
+10.1 Disciplinary Process
+
+Violations of company policies may result in verbal warnings, written warnings, suspension, or termination, depending on severity.
+Examples of misconduct include:
+
+Theft or fraud
+
+Harassment or discrimination
+
+Breach of confidentiality
+
+Misuse of IT systems
+
+Unethical or illegal activities
+
+10.2 Reporting Misconduct
+
+Employees may report unethical or illegal activities confidentially to the Compliance Office or via the Whistleblower Hotline. Retaliation against whistleblowers is strictly prohibited.
+
+10.3 Grievance Procedure
+
+Employees with workplace grievances should first discuss the issue with their supervisor. If unresolved, they may escalate to HR. Formal complaints are documented and investigated impartially.
+
+10.4 Appeal Rights
+
+Employees have the right to appeal disciplinary actions. Appeals must be submitted in writing within seven business days of the decision.
+
+11. POLICY ENFORCEMENT AND AMENDMENTS
+
+This handbook is reviewed annually by HR, Legal, and IT departments. Updates are communicated through internal announcements. All employees are deemed to have accepted new policies upon continued employment.
